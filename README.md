@@ -110,7 +110,7 @@ npm run build
 
 GitHub Pages를 사용합니다. 공개 저장소 `JEONJINJEONJIN/matter-type`의 `main`에 변경을 push하면 `.github/workflows/deploy.yml`이 타입 체크·테스트·빌드 후 `dist`만 배포합니다. 별도의 서버나 유료 도메인은 필요하지 않습니다. Vite의 상대 경로 `base: './'` 설정으로 저장소 하위 주소에서 폰트와 Worker를 불러옵니다.
 
-예정 주소: https://jeonjinjeonjin.github.io/matter-type/
+공개 주소: https://jeonjinjeonjin.github.io/matter-type/
 
 로컬 소스 변경 후 GitHub에 push해야 공개 사이트도 바뀝니다. 로컬 실행 창은 공개 사이트 운영에 필요하지 않습니다. 이미지 업로드는 브라우저 메모리에서만 처리되며 GitHub에 업로드되지 않습니다. 공개 저장소에는 소스가 공개됩니다. 배포본에는 테스트 페이지·개발 문서가 포함되지 않습니다.
 
