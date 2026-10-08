@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ko">
+  <meta charset="utf-8" /><title>Object performance</title
+  ><style>
+    body {
+      margin: 12px;
+      font: 14px system-ui;
+      background: #faf8f2;
+    }
+    canvas {
+      width: 960px;
+      height: 540px;
+      max-width: 100%;
+      display: block;
+    }
+    pre {
+      white-space: pre-wrap;
+    }
+  </style>
+  <h1>30·60·120자 WebGL 성능</h1>
+  <button id="run">측정 실행</button
+  ><canvas></canvas>
+  <pre id="results">대기 중</pre>
+  <script type="module" src="./performance.ts"></script>
+</html>

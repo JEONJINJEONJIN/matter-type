@@ -1,0 +1,182 @@
+{
+  "gpu": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4080 SUPER (0x00002702) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "emptyRafFps": 168.9,
+  "viewport": [
+    960,
+    540
+  ],
+  "dpr": 1,
+  "trianglesPerObject": [
+    [
+      "can",
+      360
+    ],
+    [
+      "bottle",
+      256
+    ],
+    [
+      "cap",
+      176
+    ],
+    [
+      "straw",
+      208
+    ],
+    [
+      "snack",
+      152
+    ],
+    [
+      "noodle",
+      248
+    ],
+    [
+      "chopsticks",
+      48
+    ],
+    [
+      "paper",
+      80
+    ],
+    [
+      "receipt",
+      168
+    ],
+    [
+      "cardboard",
+      168
+    ],
+    [
+      "notebook",
+      264
+    ],
+    [
+      "stub",
+      84
+    ],
+    [
+      "comb",
+      128
+    ],
+    [
+      "mug",
+      100
+    ],
+    [
+      "sock",
+      100
+    ],
+    [
+      "battery",
+      136
+    ],
+    [
+      "earbuds",
+      280
+    ],
+    [
+      "lighter",
+      104
+    ],
+    [
+      "rubber",
+      128
+    ],
+    [
+      "tape",
+      84
+    ],
+    [
+      "button",
+      268
+    ],
+    [
+      "key",
+      156
+    ],
+    [
+      "ring",
+      192
+    ],
+    [
+      "pebble",
+      80
+    ],
+    [
+      "coin",
+      220
+    ]
+  ],
+  "rows": [
+    {
+      "characters": 30,
+      "objects": 12000,
+      "prepareMs": 239,
+      "rotation": {
+        "gpuRenderMs": 0.9,
+        "longFrameGaps": 0,
+        "frames": 990,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.2,
+        "fps": 164.9,
+        "p95Ms": 6.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 2.37,
+        "longFrameGaps": 0,
+        "frames": 954,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 2.5,
+        "fps": 158.9,
+        "p95Ms": 6.2
+      }
+    },
+    {
+      "characters": 60,
+      "objects": 12000,
+      "prepareMs": 161,
+      "rotation": {
+        "gpuRenderMs": 1.45,
+        "longFrameGaps": 0,
+        "frames": 990,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.2,
+        "fps": 164.9,
+        "p95Ms": 6.1
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 2.92,
+        "longFrameGaps": 0,
+        "frames": 959,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 3.5,
+        "fps": 159.8,
+        "p95Ms": 6.2
+      }
+    },
+    {
+      "characters": 120,
+      "objects": 12000,
+      "prepareMs": 206,
+      "rotation": {
+        "gpuRenderMs": 1.37,
+        "longFrameGaps": 0,
+        "frames": 990,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.2,
+        "fps": 164.9,
+        "p95Ms": 6.1
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 3.37,
+        "longFrameGaps": 0,
+        "frames": 958,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 4.2,
+        "fps": 159.6,
+        "p95Ms": 6.2
+      }
+    }
+  ]
+}

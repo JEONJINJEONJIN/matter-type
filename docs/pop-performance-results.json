@@ -1,0 +1,118 @@
+{
+  "gpu": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4080 SUPER (0x00002702) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "emptyRafFps": 171.8,
+  "viewport": [
+    960,
+    540
+  ],
+  "dpr": 1,
+  "trianglesPerObject": [
+    [
+      "donut",
+      440
+    ],
+    [
+      "cherry",
+      176
+    ],
+    [
+      "lollipop",
+      144
+    ],
+    [
+      "heart",
+      76
+    ],
+    [
+      "marble",
+      64
+    ],
+    [
+      "star",
+      76
+    ],
+    [
+      "lightning",
+      52
+    ],
+    [
+      "dice",
+      168
+    ],
+    [
+      "brick",
+      108
+    ]
+  ],
+  "rows": [
+    {
+      "characters": 20,
+      "objects": 11806,
+      "prepareMs": 430,
+      "rotation": {
+        "gpuRenderMs": 0.89,
+        "longFrameGaps": 0,
+        "frames": 987,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.2,
+        "fps": 164.4,
+        "p95Ms": 6.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 1.65,
+        "longFrameGaps": 0,
+        "frames": 937,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 2.6,
+        "fps": 156.1,
+        "p95Ms": 6.3
+      }
+    },
+    {
+      "characters": 60,
+      "objects": 12000,
+      "prepareMs": 354,
+      "rotation": {
+        "gpuRenderMs": 1,
+        "longFrameGaps": 0,
+        "frames": 990,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.1,
+        "fps": 164.9,
+        "p95Ms": 6.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 2.58,
+        "longFrameGaps": 0,
+        "frames": 917,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 4.4,
+        "fps": 152.8,
+        "p95Ms": 6.3
+      }
+    },
+    {
+      "characters": 200,
+      "objects": 12000,
+      "prepareMs": 946,
+      "rotation": {
+        "gpuRenderMs": 1.1,
+        "longFrameGaps": 0,
+        "frames": 962,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.1,
+        "fps": 160.3,
+        "p95Ms": 6.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 2.8,
+        "longFrameGaps": 0,
+        "frames": 945,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 5.2,
+        "fps": 157.4,
+        "p95Ms": 6.3
+      }
+    }
+  ]
+}

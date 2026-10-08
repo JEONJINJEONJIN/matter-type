@@ -1,0 +1,118 @@
+{
+  "gpu": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4080 SUPER (0x00002702) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "emptyRafFps": 88.3,
+  "viewport": [
+    863,
+    485
+  ],
+  "dpr": 0.8999999761581421,
+  "trianglesPerObject": [
+    [
+      "donut",
+      440
+    ],
+    [
+      "cherry",
+      176
+    ],
+    [
+      "lollipop",
+      144
+    ],
+    [
+      "heart",
+      76
+    ],
+    [
+      "marble",
+      64
+    ],
+    [
+      "star",
+      76
+    ],
+    [
+      "lightning",
+      52
+    ],
+    [
+      "dice",
+      168
+    ],
+    [
+      "brick",
+      108
+    ]
+  ],
+  "rows": [
+    {
+      "characters": 20,
+      "objects": 11806,
+      "prepareMs": 445,
+      "rotation": {
+        "gpuRenderMs": 1.32,
+        "longFrameGaps": 0,
+        "frames": 987,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.1,
+        "fps": 164.4,
+        "p95Ms": 6.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 1.57,
+        "longFrameGaps": 2,
+        "frames": 329,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 1.5,
+        "fps": 54.8,
+        "p95Ms": 12.2
+      }
+    },
+    {
+      "characters": 60,
+      "objects": 12000,
+      "prepareMs": 369,
+      "rotation": {
+        "gpuRenderMs": 1.85,
+        "longFrameGaps": 0,
+        "frames": 495,
+        "sampleSeconds": 6.003,
+        "cpuSubmitMs": 0.1,
+        "fps": 82.5,
+        "p95Ms": 12.2
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 8.4,
+        "longFrameGaps": 10,
+        "frames": 42,
+        "sampleSeconds": 6.464,
+        "cpuSubmitMs": 6.7,
+        "fps": 6.5,
+        "p95Ms": 527.7
+      }
+    },
+    {
+      "characters": 200,
+      "objects": 12000,
+      "prepareMs": 1088,
+      "rotation": {
+        "gpuRenderMs": 6.34,
+        "longFrameGaps": 8,
+        "frames": 26,
+        "sampleSeconds": 6.07,
+        "cpuSubmitMs": 0.3,
+        "fps": 4.3,
+        "p95Ms": 533.7
+      },
+      "attachmentWindow": {
+        "gpuRenderMs": 19.97,
+        "longFrameGaps": 10,
+        "frames": 26,
+        "sampleSeconds": 6.039,
+        "cpuSubmitMs": 6.5,
+        "fps": 4.3,
+        "p95Ms": 545.7
+      }
+    }
+  ]
+}

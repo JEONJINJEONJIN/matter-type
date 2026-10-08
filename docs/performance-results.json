@@ -1,0 +1,94 @@
+{
+  "gpu": "ANGLE (Microsoft, Microsoft Basic Render Driver (0x0000008C) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "emptyRafFps": 164.3,
+  "viewport": [
+    863,
+    485
+  ],
+  "dpr": 0.8999999761581421,
+  "trianglesPerObject": [
+    [
+      "paper",
+      80
+    ],
+    [
+      "candy",
+      92
+    ],
+    [
+      "pebble",
+      80
+    ],
+    [
+      "marble",
+      80
+    ],
+    [
+      "cube",
+      48
+    ],
+    [
+      "ring",
+      120
+    ]
+  ],
+  "rows": [
+    {
+      "characters": 20,
+      "objects": 12000,
+      "prepareMs": 457,
+      "rotation": {
+        "frames": 12,
+        "sampleSeconds": 6.973,
+        "cpuSubmitMs": 0.8,
+        "fps": 1.7,
+        "p95Ms": 1006.5
+      },
+      "attachmentWindow": {
+        "frames": 6,
+        "sampleSeconds": 6.002,
+        "cpuSubmitMs": 13,
+        "fps": 1,
+        "p95Ms": 1000.5
+      }
+    },
+    {
+      "characters": 40,
+      "objects": 12000,
+      "prepareMs": 394,
+      "rotation": {
+        "frames": 6,
+        "sampleSeconds": 6.002,
+        "cpuSubmitMs": 0.7,
+        "fps": 1,
+        "p95Ms": 1000.5
+      },
+      "attachmentWindow": {
+        "frames": 6,
+        "sampleSeconds": 6.002,
+        "cpuSubmitMs": 8.9,
+        "fps": 1,
+        "p95Ms": 1000.4
+      }
+    },
+    {
+      "characters": 60,
+      "objects": 12000,
+      "prepareMs": 437,
+      "rotation": {
+        "frames": 9,
+        "sampleSeconds": 6.364,
+        "cpuSubmitMs": 0.6,
+        "fps": 1.4,
+        "p95Ms": 1014.6
+      },
+      "attachmentWindow": {
+        "frames": 19,
+        "sampleSeconds": 6.33,
+        "cpuSubmitMs": 9,
+        "fps": 3,
+        "p95Ms": 1006.6
+      }
+    }
+  ]
+}

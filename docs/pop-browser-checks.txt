@@ -1,0 +1,60 @@
+PASS 9종 팝 물체 삼각형 예산
+PASS 복숭아 사탕 앞뒤 부풀림과 삼각형 예산
+PASS 오래된 티켓 앞뒤 부풀림과 삼각형 예산
+PASS 초록 잎사귀 앞뒤 부풀림과 삼각형 예산
+PASS 자개 단추 앞뒤 부풀림과 삼각형 예산
+PASS 황동 별 앞뒤 부풀림과 삼각형 예산
+PASS 오렌지 조각 앞뒤 부풀림과 삼각형 예산
+PASS 불투명 사진 쿠션
+PASS GLB 정규화·색·삼각형
+PASS 고밀도 GLB 경고 후 차단
+PASS 같은 문장 마스크 재생성 0
+PASS 글자 identity·마스크 참조 캐시
+PASS 오브젝트 렌더러는 숨겨진 선택 몸체를 생성하지 않음
+PASS 한 글자 수정 시 새 마스크 1개
+PASS 20자 예산과 줄바꿈
+PASS 20자 바닥 위 문장
+PASS 40자 예산과 줄바꿈
+PASS 40자 바닥 위 문장
+PASS 60자 예산과 줄바꿈
+PASS 60자 바닥 위 문장
+PASS o SDF packing nonempty
+PASS o Worker seed parity
+PASS o bounding spheres inside SDF
+PASS o no boundary or counter intrusion
+PASS o spatial hash no sphere overlaps
+PASS a SDF packing nonempty
+PASS a Worker seed parity
+PASS a bounding spheres inside SDF
+PASS a no boundary or counter intrusion
+PASS a spatial hash no sphere overlaps
+PASS e SDF packing nonempty
+PASS e Worker seed parity
+PASS e bounding spheres inside SDF
+PASS e no boundary or counter intrusion
+PASS e spatial hash no sphere overlaps
+PASS B SDF packing nonempty
+PASS B Worker seed parity
+PASS B bounding spheres inside SDF
+PASS B no boundary or counter intrusion
+PASS B spatial hash no sphere overlaps
+PASS 8 SDF packing nonempty
+PASS 8 Worker seed parity
+PASS 8 bounding spheres inside SDF
+PASS 8 no boundary or counter intrusion
+PASS 8 spatial hash no sphere overlaps
+PASS ㅇ SDF packing nonempty
+PASS ㅇ Worker seed parity
+PASS ㅇ bounding spheres inside SDF
+PASS ㅇ no boundary or counter intrusion
+PASS ㅇ spatial hash no sphere overlaps
+PASS optional halftone core visible
+PASS eroded core leaves mask exterior and counters empty
+PASS core OFF hides geometry
+PASS 종류별 본체와 외곽선 InstancedMesh
+PASS 물체 삼각형 raycast로 문자 확대 대상 선택
+PASS 몸체 없이 실제 물체 떼어내기
+PASS 빈 곳 더블클릭은 전체 보기
+PASS 기능 전체 OFF 시 UI 안전 제거
+
+완료: 58개 통과

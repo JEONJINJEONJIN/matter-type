@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+  <meta charset="utf-8" /><title>오브젝트 라이브러리</title
+  ><style>
+    body {
+      margin: 0;
+      background: #e6e0d3;
+      font: 14px sans-serif;
+      color: #27232d;
+    }
+    h1 {
+      margin: 24px;
+    }
+    #gallery {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      width: 1260px;
+    }
+    article {
+      height: 195px;
+      text-align: center;
+      position: relative;
+    }
+    canvas {
+      position: fixed;
+      inset: 75px auto auto 0;
+      pointer-events: none;
+    }
+    b {
+      display: block;
+      padding-top: 153px;
+    }
+    small {
+      color: #736858;
+    }
+    #status {
+      margin: 20px;
+    }
+  </style>
+  <h1>25가지 버려진 소재 · 형태와 재질 확인</h1>
+  <canvas width="1260" height="780"></canvas>
+  <div id="gallery"></div>
+  <p id="status"></p>
+  <script type="module" src="./library.ts"></script>
+</html>
